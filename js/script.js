@@ -17,7 +17,7 @@ class ChangeLanguage {
         Build: webpack, gulp,<br>
         - Git for version control.<br>
         - Web Design tools: Ps (Zeplin), Ai, Figma, Avocade.<br>
-        - QA manual (Jira), writing test plans and bug reports.
+        - QA manual (Jira), writing test plans and bug reports.<br>
         - Ability to work independently (google, mdn).<br>
         - I can work in MacOS / Win / Linux.<br>
         - In my spare time, I am fond of photography, <br> ruby / swift, bots for telegram.`;

@@ -5,7 +5,7 @@ class ChangeLanguage {
       - I live and work in St. Petersburg.<br> 
       - Languages: eng/hebr/russ<br> 
       - Completed Frontend dev courses.<br> 
-      - The work experience is described on <a href="https://spb.hh.ru/applicant/resumes/view?resume=04e9becfff081c8c040039ed1f44524f444772">hh.ru</a><br> 
+      - My work experience is described on <a href="https://spb.hh.ru/applicant/resumes/view?resume=04e9becfff081c8c040039ed1f44524f444772">hh.ru</a><br> 
       - Married, have children.`;
     const mySkillEn = `
       Tech Stack:<br>
@@ -13,14 +13,14 @@ class ChangeLanguage {
         - Knowledge and understanding of modern web standards:<br>
         BEM, HTML5(Flexbox), CSS3(sass).<br>
         JS: ES6 + Vue.js<br>
-        Node.JS ( babel, eslint, yarn), docker).<br>
+        Node.JS (npm, babel, eslint, yarn, docker).<br>
         Build: webpack, gulp,<br>
         - Git for version control.<br>
         - Web Design tools: Ps (Zeplin), Ai, Figma, Avocade.<br>
         - QA manual (Jira), writing test plans and bug reports.<br>
         - Ability to work independently (google, mdn).<br>
         - I can work in MacOS / Win / Linux.<br>
-        - In my spare time, I am fond of photography, <br> ruby / swift, bots for telegram.`;
+        - In my spare time, i enjoy photography, <br>coding ruby / swift,writing bots for telegram.`;
 
     let btn = document.querySelector(".form__btn");
 

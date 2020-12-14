@@ -12,7 +12,7 @@ class ChangeLanguage {
         - Development of adaptive web interfaces.<br>
         - Knowledge and understanding of modern web standards:<br>
         BEM, HTML5(Flexbox), CSS3(sass).<br>
-        JS: ES6 + Vue.js<br>
+        JS: ES6 (Vue.js, React base knowledge) <br>
         Node.JS (npm, babel, eslint, yarn, docker).<br>
         Build: webpack, gulp,<br>
         - Git for version control.<br>
@@ -37,7 +37,7 @@ class ChangeLanguage {
 					- Разработка адаптивных веб интерфейсов.<br>
 					- Знание и понимание современных web стандартов:<br>
 					БЭМ, HTML5(Flexbox), CSS3(sass).<br>
-					JS: ES6 + Vue.js<br>
+					JS: ES6 (Vue.js, React - базовые знания)<br>
 					Node.JS ( babel, eslint, yarn), docker).<br>
 					Сборка: webpack, gulp<br>
 					- Git для контроля версий.<br>
